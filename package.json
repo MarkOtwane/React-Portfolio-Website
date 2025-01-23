@@ -1,0 +1,17 @@
+{
+  "name": "react-responsive-portfolio-website-tutorial-using-reactjs",
+  "version": "1.0.0",
+  "description": "A simple portfolio website using React",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "author": "Mark Otwane",
+  "license": "ISC",
+  "dependencies": {
+    "react-scripts": "^5.0.1"
+  }
+}
